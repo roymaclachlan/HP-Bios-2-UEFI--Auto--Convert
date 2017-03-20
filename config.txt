@@ -1,0 +1,22 @@
+BIOSConfig 1.0
+Manufacturer
+	Hewlett-Packard
+Ownership Tag
+	<Company Name>
+Asset Tracking Number
+	<Internal Asset Tag Number>
+SecureBoot
+	  Disable
+	*Enable
+Boot Mode
+	  Legacy
+	  UEFI Hybrid (With CSM)
+	*UEFI Native (Without CSM)
+UEFI Boot Order
+	OS Boot Manager
+	USB Hard Drive
+	Notebook Ethernet IPV4
+	Notebook Ethernet IPV6
+	SD Card Boot
+	Generic USB Device
+	Customized Boot
